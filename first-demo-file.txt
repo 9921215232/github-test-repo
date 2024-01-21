@@ -1,3 +1,5 @@
 Hi, adding new demo text file in my repo
 
 Successfully able to clone the repository in local system and now making some changes to push on github
+
+Able to push from local to remote Repo and now trying to pull changes from remote to local Repo
